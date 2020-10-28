@@ -1,7 +1,8 @@
 # NOTICE
+
 The original repository hosted at [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) was taken down due to a DMCA notice from the RIAA.
 Because record labels are stupid and this is a 100% invalid DMCA in my opinion, I have went ahead and rehosted as much as I can from the web archive
-made on October 19, 2020. If the original repo ever comes back, I will delete this one.
+made on October 19, 2020 and what is included with the tarball on [yt-dl.org](http://yt-dl.org). If the original repo ever comes back, I will delete this one.
 
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
