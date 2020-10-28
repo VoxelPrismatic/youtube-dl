@@ -137,3 +137,5 @@ related to youtube-dl, by all means, go ahead and report the bug.
 
 
 *i gave up writing this by hand at this point
+
+https://web.archive.org/web/20200817151109/https://github.com/ytdl-org/youtube-dl/blob/master/CONTRIBUTING.md
